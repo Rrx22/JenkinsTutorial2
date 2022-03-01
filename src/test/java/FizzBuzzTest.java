@@ -14,7 +14,7 @@ public class FizzBuzzTest {
 
     @Test
     public void return1For1() {
-        assertEquals("-1", fizzBuzz.validateFizzBuzz(1));
+        assertEquals("1", fizzBuzz.validateFizzBuzz(1));
     }
 
     @Test
